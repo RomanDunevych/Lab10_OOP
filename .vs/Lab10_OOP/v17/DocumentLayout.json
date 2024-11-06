@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|solutionrelative:Lab10_OOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\QuadraticEquations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|solutionrelative:Lab10_OOP\\QuadraticEquations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\LinearEquations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|solutionrelative:Lab10_OOP\\LinearEquations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Equations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|solutionrelative:Lab10_OOP\\Equations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Lab10_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EC067B1-2D51-4BAC-9BDB-E5EA9D013827}|Lab10_OOP\\Lab10_OOP.vcxproj|solutionrelative:Lab10_OOP\\Lab10_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Source.cpp",
+              "RelativeDocumentMoniker": "Lab10_OOP\\Source.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Source.cpp",
+              "RelativeToolTip": "Lab10_OOP\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T15:17:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuadraticEquations.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\QuadraticEquations.h",
+              "RelativeDocumentMoniker": "Lab10_OOP\\QuadraticEquations.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\QuadraticEquations.h",
+              "RelativeToolTip": "Lab10_OOP\\QuadraticEquations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T15:17:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinearEquations.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\LinearEquations.h",
+              "RelativeDocumentMoniker": "Lab10_OOP\\LinearEquations.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\LinearEquations.h",
+              "RelativeToolTip": "Lab10_OOP\\LinearEquations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T15:16:53.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equations.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Equations.h",
+              "RelativeDocumentMoniker": "Lab10_OOP\\Equations.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Equations.h",
+              "RelativeToolTip": "Lab10_OOP\\Equations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T15:16:24.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab10_OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Lab10_OOP.cpp",
+              "RelativeDocumentMoniker": "Lab10_OOP\\Lab10_OOP.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab10_OOP\\Lab10_OOP\\Lab10_OOP.cpp",
+              "RelativeToolTip": "Lab10_OOP\\Lab10_OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T15:13:21.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
